@@ -1,0 +1,15 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=006f9373_002D47bb_002D4845_002D9f72_002De34ea8d70ed0/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="HelloWorld" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;Or&gt;&#xD;
+    &lt;TestAncestor&gt;&#xD;
+      &lt;TestId&gt;NUnit3x::3EA47CC2-AF59-476F-8E4D-B6D784315379::.NETFramework,Version=v4.6.1::SeeyonClientTest.Tests.HelloWorld&lt;/TestId&gt;&#xD;
+      &lt;TestId&gt;NUnit3x::3EA47CC2-AF59-476F-8E4D-B6D784315379::.NETFramework,Version=v4.6.1::SeeyonClientTest.AuthorizeTest.TestGetToken&lt;/TestId&gt;&#xD;
+      &lt;TestId&gt;NUnit3x::3EA47CC2-AF59-476F-8E4D-B6D784315379::.NETFramework,Version=v4.6.1::SeeyonClientTest.GetTest.TestGetOrgName&lt;/TestId&gt;&#xD;
+      &lt;TestId&gt;NUnit3x::3EA47CC2-AF59-476F-8E4D-B6D784315379::.NETFramework,Version=v4.6.1::SeeyonClientTest.GPPDTest.TestCreateDept&lt;/TestId&gt;&#xD;
+      &lt;TestId&gt;NUnit3x::3EA47CC2-AF59-476F-8E4D-B6D784315379::.NETFramework,Version=v4.6.1::SeeyonClientTest.GPPDTest.TestModifiedDepartment&lt;/TestId&gt;&#xD;
+      &lt;TestId&gt;NUnit3x::3EA47CC2-AF59-476F-8E4D-B6D784315379::.NETFramework,Version=v4.6.1::SeeyonClientTest.GPPDTest.TestDeleteDepartment&lt;/TestId&gt;&#xD;
+    &lt;/TestAncestor&gt;&#xD;
+    &lt;ProjectFile&gt;3EA47CC2-AF59-476F-8E4D-B6D784315379/f:GPPDTest.cs&lt;/ProjectFile&gt;&#xD;
+  &lt;/Or&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	</wpf:ResourceDictionary>

@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SeeyonClient", "SeeyonClient\SeeyonClient.csproj", "{0B202E70-1FF9-4C2B-AC8C-69B9E4726F82}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SeeyonClientTest", "SeeyonClientTest\SeeyonClientTest.csproj", "{3EA47CC2-AF59-476F-8E4D-B6D784315379}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0B202E70-1FF9-4C2B-AC8C-69B9E4726F82}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B202E70-1FF9-4C2B-AC8C-69B9E4726F82}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B202E70-1FF9-4C2B-AC8C-69B9E4726F82}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B202E70-1FF9-4C2B-AC8C-69B9E4726F82}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3EA47CC2-AF59-476F-8E4D-B6D784315379}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3EA47CC2-AF59-476F-8E4D-B6D784315379}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3EA47CC2-AF59-476F-8E4D-B6D784315379}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3EA47CC2-AF59-476F-8E4D-B6D784315379}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

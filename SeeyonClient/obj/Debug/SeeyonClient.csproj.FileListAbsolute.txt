@@ -1,0 +1,9 @@
+E:\RiderProject\SeeyonClient\SeeyonClient\bin\Debug\SeeyonClient.dll
+E:\RiderProject\SeeyonClient\SeeyonClient\bin\Debug\SeeyonClient.pdb
+E:\RiderProject\SeeyonClient\SeeyonClient\bin\Debug\Newtonsoft.Json.dll
+E:\RiderProject\SeeyonClient\SeeyonClient\bin\Debug\Newtonsoft.Json.xml
+E:\RiderProject\SeeyonClient\SeeyonClient\obj\Debug\SeeyonClient.csprojAssemblyReference.cache
+E:\RiderProject\SeeyonClient\SeeyonClient\obj\Debug\SeeyonClient.csproj.CoreCompileInputs.cache
+E:\RiderProject\SeeyonClient\SeeyonClient\obj\Debug\SeeyonClient.csproj.CopyComplete
+E:\RiderProject\SeeyonClient\SeeyonClient\obj\Debug\SeeyonClient.dll
+E:\RiderProject\SeeyonClient\SeeyonClient\obj\Debug\SeeyonClient.pdb

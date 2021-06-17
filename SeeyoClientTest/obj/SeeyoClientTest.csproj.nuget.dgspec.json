@@ -1,0 +1,69 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\RiderProject\\SeeyonClient\\SeeyoClientTest\\SeeyoClientTest.csproj": {}
+  },
+  "projects": {
+    "E:\\RiderProject\\SeeyonClient\\SeeyoClientTest\\SeeyoClientTest.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\RiderProject\\SeeyonClient\\SeeyoClientTest\\SeeyoClientTest.csproj",
+        "projectName": "SeeyoClientTest",
+        "projectPath": "E:\\RiderProject\\SeeyonClient\\SeeyoClientTest\\SeeyoClientTest.csproj",
+        "packagesPath": "C:\\Users\\刘欣\\.nuget\\packages\\",
+        "outputPath": "E:\\RiderProject\\SeeyonClient\\SeeyoClientTest\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\刘欣\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net461"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://tfs.hongyangsoft.com:8080/nuget/nuget": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.cdn.azure.cn/v3/index.json": {}
+        },
+        "frameworks": {
+          "net461": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net461": {
+          "dependencies": {
+            "NUnit": {
+              "target": "Package",
+              "version": "[2.6.4, )"
+            },
+            "Xamarin.UITest": {
+              "target": "Package",
+              "version": "[2.2.4, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}
