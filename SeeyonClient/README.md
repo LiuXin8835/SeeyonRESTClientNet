@@ -50,9 +50,9 @@ GetToken
             var client = CTPServiceClientManager.GetInstance(Server_IP,Server_Port,Seeyon_UserName,Seeyon_Password).GetRestClient();
             //这个URL是REST方法获取指定集团内容的链接
             //http://open.seeyon.com/book/ctp/restjie-kou/zu-zhi-mo-xing-guan-li.html
-            var result = client.Get($"orgAccount/name/{HttpUtility.UrlEncode("弘扬HIT体验中心", Encoding.UTF8)}/");
+            var result = client.Get($"orgAccount/name/{HttpUtility.UrlEncode("集团名称", Encoding.UTF8)}/");
             Console.WriteLine("回来的字符串：" + result);
-            Assert.IsTrue(!string.IsNullOrEmpty(result) && result.Contains("弘扬HIT体验中心"));
+            Assert.IsTrue(!string.IsNullOrEmpty(result) && result.Contains("集团名称"));
         }
 
         /// <summary>
@@ -80,7 +80,7 @@ GetToken
             //HTTP状态应该是415，识别失败
             Assert.IsTrue(string.IsNullOrEmpty(result));
             var json =
-                "{\"orgAccountId\":7504955699184944920,\"name\":\"测试三号部门\",\"code\":\"\",\"enabled\":true,\"superior\":7504955699184944920,\"superiorName\":\"弘扬HIS体验中心\"}";
+                "{\"orgAccountId\":7504955699184944920,\"name\":\"测试三号部门\",\"code\":\"\",\"enabled\":true,\"superior\":7504955699184944920,\"superiorName\":\"集团名称\"}";
             HttpContent content = new StringContent(json, Encoding.UTF8, "application/json");
             result = client.Post("orgDepartment/", content);
             Console.WriteLine("回来的字符串：" + result);
